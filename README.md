@@ -39,16 +39,8 @@ Perform an Exploratory Data Analysis (EDA) and a Regression-based Sales Forecast
 | `Superstore_4yrs.xlsx`               | Cleaned dataset                            |
 | `EDA_Dashboard.xlsx`                 | Pivot tables, charts, and summaries        |
 | `Sales_Forecast.xlsx`                | Regression output and 7-day forecast table |
-| `README_Excel_Sales_Regression.docx` | Documentation (this file)                  |
-
-	Forecast = Intercept 
-           + (Lag1 * Coeff_Lag1)
-           + (7DayAvg * Coeff_7DayAvg)
-           + (DayOfWeek * Coeff_DayOfWeek)
-           + (Month * Coeff_Month)
-							
-	I can be reached through Linkedin @	Chris Eke or email cekeo68@gmail.com						
-								
+| `README_Excel_Sales_Regression.docx` | Documentation (this file)                  |					
+I can be reached through Linkedin @	Chris Eke or email cekeo68@gmail.com
 								
 								
 								
