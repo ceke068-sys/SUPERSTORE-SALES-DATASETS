@@ -1,5 +1,6 @@
 # SUPERSTORE-SALES-DATASETS
 Retail dataset of a global superstore for 4 years. Perform EDA and Predict the sales of the next 7 days from the last date of the Training dataset
+![Image](https://github.com/user-attachments/assets/9953b8ec-cab6-4807-895e-f5918206b938)
 # OBJECTIVES
 Perform an Exploratory Data Analysis (EDA) and a Regression-based Sales Forecast for the next 7 days, using Excel formulas, Pivot Tables, and Charts.
 # BUSINESS QUESTION
