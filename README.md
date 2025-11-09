@@ -47,7 +47,7 @@ Perform an Exploratory Data Analysis (EDA) and a Regression-based Sales Forecast
            + (DayOfWeek * Coeff_DayOfWeek)
            + (Month * Coeff_Month)
 							
-								
+	I can be reached through Linkedin @	Chris Eke or email cekeo68@gmail.com						
 								
 								
 								
