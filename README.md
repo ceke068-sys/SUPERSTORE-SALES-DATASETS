@@ -158,7 +158,7 @@ Short-term planning for staffing and inventory should follow the estimated sales
 
 Overall Interpretation
 
-Your project shows that the business is growing steadily, with strong seasonal patterns and reliable customer segments. Technology drives the highest revenue, while Furniture requires strategic improvement due to lower margins.
+This project shows that the business is growing steadily, with strong seasonal patterns and reliable customer segments. Technology drives the highest revenue, while Furniture requires strategic improvement due to lower margins.
 The forecast validates short-term stability, helping the business plan for inventory, staffing, and marketing.
 
 I"m open to collaboration or feedback. Always feel free to connect with me via
